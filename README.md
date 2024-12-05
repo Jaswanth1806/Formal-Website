@@ -23,3 +23,10 @@ This project is a **Responsive Website** built with **HTML**, **CSS**, and **Jav
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+
+### How to Customize:
+1. Replace `your-username` and `your-repo-name` with your GitHub username and repository name.
+2. Update the `Screenshots` section with real image links.
+3. Modify the `Contact` section with your actual details.
+
